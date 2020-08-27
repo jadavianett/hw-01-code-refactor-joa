@@ -14,7 +14,7 @@ URL of GitHub Repository - https://github.com/jadavianett/hw-01-code-refactor-jo
 URL of the deployed application - https://jadavianett.github.io/hw-01-code-refactor-joa/ 
 
 ## Screenshot of Deployed Application 
-![alt text](assets/images/Horiseon-Home-Page.png "Home Page")
+![alt text](./assests/images/homepage.png "Home Page")
 
 
 
