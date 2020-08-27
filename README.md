@@ -7,10 +7,14 @@ In order to acheieve both of these goals, many changes were made to the original
 
 HTML -- In order to add semantic HTML elements, I swapped out many of the div elements for section, article, or aside tags. This change makes the code easier to read. I also added accesibile alt attributes for those with diabilities or socio-economic restrictions that may not be able to view the images. An appopriate title was added to round out the webpage and aid with SEO. 
 
-CSS -- In order to consolidatde the CSS code, I combined many identical elements into single class groupings. This made the code much more concise and effective. 
+CSS -- In order to consolidatde the CSS code, I combined many identical elements into single class groupings. This made the code much more concise and effective. I also icnreased the font size to make the site easier to read. 
 
 ## URL's 
 URL of GitHub Repository - https://github.com/jadavianett/hw-01-code-refactor-joa
 URL of the deployed application - https://jadavianett.github.io/hw-01-code-refactor-joa/ 
+
+## Screenshot of Deployed Application 
+
+
 
 
