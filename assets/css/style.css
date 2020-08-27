@@ -26,7 +26,7 @@ body {
 }
 
 
-/*changed div to nav to clean up html*/
+/*nav bar styling-more specific than div*/
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -35,12 +35,12 @@ body {
   font-size: 20px;
 }
 
-/*changed div to nav to clean up html*/
+/*changed div to nav to clean up html and increase spcificity*/
 .header nav ul {
   list-style-type: none;
 }
 
-/*changed div to nav to clean up html*/
+/*changed div to nav to clean up html and increase specificity*/
 .header nav ul li {
   display: inline-block;
   margin-left: 25px;
@@ -51,7 +51,7 @@ a {
   text-decoration: none;
 }
 
-/*increased font sixe by 6px to increase accesiblity */
+/*font sixe increased by 6px (originally 14px) to increase accesiblity */
 p {
   font-size: 20px;
 }
