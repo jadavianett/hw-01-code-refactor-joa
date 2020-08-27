@@ -26,7 +26,7 @@ body {
 }
 
 
-/*changed div to nav*/
+/*changed div to nav to clean up html*/
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -35,12 +35,12 @@ body {
   font-size: 20px;
 }
 
-/*changed div to nav*/
+/*changed div to nav to clean up html*/
 .header nav ul {
   list-style-type: none;
 }
 
-/*changed div to nav*/
+/*changed div to nav to clean up html*/
 .header nav ul li {
   display: inline-block;
   margin-left: 25px;
